@@ -4,6 +4,10 @@
 
 (nothing yet)
 
+## 4.3.1
+
+- #1379 Fix: audit plugin using deprecated `outgoingMessage._headers` properties.
+
 ## 4.3.0
 
 - #1024 Add `handleUncaughtExceptions` server option to supporting disabling
